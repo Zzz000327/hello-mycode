@@ -1,1 +1,1 @@
-hello,my love.
+print("你好")
